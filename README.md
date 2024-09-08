@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Ethereum private key generator/Balance Checker
+[Download Now](https://github.com/cmandar24/Ethereum-Private-Key-Generator/releases/tag/1)
+
+
 
 Ethereum Private Key Generator & Balance Checker is a versatile tool for Ethereum enthusiasts and developers, offering both private key generation and balance checking functionalities. This tool is designed to facilitate secure Ethereum wallet management and to provide insights into wallet balances.
 
